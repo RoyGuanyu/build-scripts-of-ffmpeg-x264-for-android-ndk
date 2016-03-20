@@ -1,2 +1,2 @@
-# build-scripts-of-ffmpeg-x264-for-android-ndk
-ffmpeg build scripts for android ndk usage (including x264)
+# build-scripts-of-ffmpeg-x264-with-android-ndk
+ffmpeg build scripts with android ndk (including x264)
