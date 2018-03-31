@@ -1,6 +1,6 @@
 #!/bin/bash
 #Change NDK to your Android NDK location
-NDK=/Users/yesimroy/Library/Android/sdk/ndk-bundle
+NDK=~/Development/android-ndk-r11c
 PLATFORM=$NDK/platforms/android-21/arch-arm64/
 PREBUILT=$NDK/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64
 

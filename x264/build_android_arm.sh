@@ -1,5 +1,5 @@
 #!/bin/bash
-NDK=/Users/yesimroy/Library/Android/sdk/ndk-bundle
+NDK=~/Development/android-ndk-r11c
 PLATFORM=$NDK/platforms/android-18/arch-arm/
 TOOLCHAIN=$NDK/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64
 PREFIX=./android/arm

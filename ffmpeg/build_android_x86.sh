@@ -1,6 +1,6 @@
 #!/bin/bash
 #Change NDK to your Android NDK location
-NDK=/Users/yesimroy/Library/Android/sdk/ndk-bundle
+NDK=~/Development/android-ndk-r11c
 PLATFORM=$NDK/platforms/android-18/arch-x86/
 PREBUILT=$NDK/toolchains/x86-4.9/prebuilt/darwin-x86_64
 PATH_X264=../x264
