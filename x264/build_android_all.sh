@@ -12,7 +12,7 @@ chmod a+x build_android_*.sh
 ./build_android_mips.sh
 
 # Build mips64
-./build_android_mips64.sh
+#./build_android_mips64.sh
 
 # Build x86
 ./build_android_x86.sh
